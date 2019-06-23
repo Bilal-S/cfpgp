@@ -16,8 +16,13 @@ Sample code should show most common operations. I have not exposed all areas of 
 
 Please read the &quot;Readme Manual Deploy.txt&quot; file for manual installs.
 
+## Source Code Location
+
+I have not copied the code to the GitHub repo as individual files. Please download release package it has the full souce code. You may submit a Pull Request if you like.
+
+
 ## RAILO Users:
------------
+
 There is a library conflict based on older versions of certain jars distributed with Railo, please remove them and copy the newer ones from this distribution to make things work without errors.
 Railo uses version 1.36 of the BouncyCastle libraries, the BonCode Library requires 1.46, and the current version is 1.51.
 a) remove: {railo-root}/lib/ext/bcprov-jdk14.jar
@@ -34,7 +39,7 @@ To upgrade uninstall (remove jars), and install (copy) new jars. Or use installe
 Last Update:
 Added installer support for ColdFusion 10.
 Requirements:
-This has been tested for CF 8,CF 9, CF10 and Railo 3.x
+This has been tested for CF 8,CF 9, CF10 - CF18 and Railo 3.x, Lucee 5.x
 You can use the PGP libraries in Flex as well if you backend it with ColdFusion.
 Simply change the Access Modifier of the functions in the main controller cfc.
 
