@@ -18,7 +18,7 @@ Please read the &quot;Readme Manual Deploy.txt&quot; file for manual installs.
 
 ## Source Code Location
 
-I have not copied the code to the GitHub repo as individual files. Please download release package it has the full souce code. You may submit a Pull Request if you like.
+I have not copied the code to the GitHub repo as individual files. Please download release package it has the full source code. You may submit a Pull Request if you like.
 
 
 ## RAILO Users:
@@ -28,7 +28,9 @@ Railo uses version 1.36 of the BouncyCastle libraries, the BonCode Library requi
 a) remove: {railo-root}/lib/ext/bcprov-jdk14.jar
 b) Add 1.46 or later libraries to {webroot}/WEB-INF/railo/lib/
 
+
 ## Version 2 added:
+
 Updated underlying libraries to latest release.
 Added support for Unicode file names.
 Added support for Single Pass Signed file creation.
@@ -44,6 +46,7 @@ You can use the PGP libraries in Flex as well if you backend it with ColdFusion.
 Simply change the Access Modifier of the functions in the main controller cfc.
 
 ## issues
+
 To report issues use the github issue tracker.
 
 
