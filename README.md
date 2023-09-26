@@ -29,6 +29,11 @@ a) remove: {railo-root}/lib/ext/bcprov-jdk14.jar
 b) Add 1.46 or later libraries to {webroot}/WEB-INF/railo/lib/
 
 
+## Lucee Users
+
+The libraries here should work with Lucee 4.x and 5.x 
+
+
 ## Version 2 added:
 
 Updated underlying libraries to latest release.

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/WS/jarReferences/bcpg-jdk16-146.jar" sourcepath="D:/WS/eclipse1/PGPController/src.zip"/>
+	<classpathentry kind="lib" path="D:/WS/jarReferences/bcprov-jdk16-146.jar"/>
+	<classpathentry kind="lib" path="D:/WS/jarReferences/bctest-jdk16-146.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
